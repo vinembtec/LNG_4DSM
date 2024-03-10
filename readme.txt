@@ -1,6 +1,3 @@
 
-C
-C
-C
-this folder contains t
-2keypad DSM Binaries and source co
+This readme file contains the info about the folder. 
+folder contains 4DSM binaries and source code and release notes.
